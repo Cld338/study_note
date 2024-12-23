@@ -9,6 +9,9 @@ https://cloudier338.notion.site/bf812e8972f4461892effc2f2fcd52a6
 ## C Programing
 https://cloudier338.notion.site/C-165fc609de7380dab967fb2be0ade43e
 
+## Computer Architecture
+https://cloudier338.notion.site/165fc609de73809c9f31f7afe319d0ab?pvs=73
+
 ---
 
 | 날짜 | 분야 | 내용 |
