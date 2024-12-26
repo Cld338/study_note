@@ -20,3 +20,4 @@ https://cloudier338.notion.site/165fc609de73809c9f31f7afe319d0ab?pvs=73
 |2024-12-21|알고리즘|KMP, Manacher|
 |2024-12-22|자료구조|링크드 리스트, Queue, Dequeue, 이진트리|
 |2024-12-23|자료구조, C 프로그래밍, 알고리즘|최소 힙, C 언어 문법, Kruskal, Prim|
+|2024-12-26|알고리즘|병합 정렬|
