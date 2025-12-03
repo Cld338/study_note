@@ -13,7 +13,10 @@ https://cloudier338.notion.site/178fc609de73800a966ec5b9a356e237
 https://cloudier338.notion.site/C-165fc609de7380dab967fb2be0ade43e
 
 ## Computer Architecture
-https://cloudier338.notion.site/165fc609de73809c9f31f7afe319d0ab?pvs=73
+https://cloudier338.notion.site/165fc609de73809c9f31f7afe319d0ab
+
+## AI
+https://cloudier338.notion.site/5564b0cedf274434a3c5a95b0acd54ea
 
 ---
 
