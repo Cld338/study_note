@@ -33,3 +33,4 @@ https://cloudier338.notion.site/5564b0cedf274434a3c5a95b0acd54ea
 |2025-01-01|알고리즘|삽입 정렬|
 |2025-01-01|알고리즘|A*|
 |2025-12-02|알고리즘|CCW, Convex Hull|
+|2025-12-03|AI|AdaBoost|
