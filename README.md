@@ -1,22 +1,20 @@
 # Study Note
 
 ## Algorithm
-Python) https://cloudier338.notion.site/160fc609de7380228117c81f5845e0cc
+[알고리즘 기초(Python)](https://cloudier338.notion.site/160fc609de7380228117c81f5845e0cc)
 
 ## Data Structure
-Python) https://cloudier338.notion.site/bf812e8972f4461892effc2f2fcd52a6
+[자료구조 기초(Python)](https://cloudier338.notion.site/bf812e8972f4461892effc2f2fcd52a6)
 
 ## Network
-https://cloudier338.notion.site/178fc609de73800a966ec5b9a356e237
+[네트워크 기초](https://cloudier338.notion.site/178fc609de73800a966ec5b9a356e237)
 
 ## C Programing
-https://cloudier338.notion.site/C-165fc609de7380dab967fb2be0ade43e
+[C 프로그래밍 기초](https://cloudier338.notion.site/C-165fc609de7380dab967fb2be0ade43e)
 
-## Computer Architecture
-https://cloudier338.notion.site/165fc609de73809c9f31f7afe319d0ab
 
 ## AI
-https://cloudier338.notion.site/5564b0cedf274434a3c5a95b0acd54ea
+[인공지능 기초](https://cloudier338.notion.site/5564b0cedf274434a3c5a95b0acd54ea)
 
 ---
 
